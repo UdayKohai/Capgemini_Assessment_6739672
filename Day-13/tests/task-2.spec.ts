@@ -1,6 +1,6 @@
 import {test} from '@playwright/test';
 
-test("Task-1",async({page,browserName})=>{
+test("Task-2",async({page,browserName})=>{
     // await page.goto('https://www.google.com/');
     // await page.locator('//textarea[@class="gLFyf"]').fill('tokyo olympics');
     // await page.locator('(//input[@class="gNO89b"])').first().click();
