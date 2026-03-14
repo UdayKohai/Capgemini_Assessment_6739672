@@ -1,0 +1,44 @@
+[
+    {
+        "url":"https://demoqa.com/automation-practice-form",
+        "firstName": "Uday",
+        "lastName": "Mathur",
+        "email": "uday@gmail.com",
+        "gender": "Male",
+        "mobile": "9876543210",
+        "dob": "01 Jan 2000",
+        "hobbies": ["Reading", "Music"],
+        "picture": "testdata/photo1.jpeg",
+        "address": "ABC 123 ",
+        "state": "Rajasthan",
+        "city": "Jaipur"
+    },  
+    {   
+        "url":"https://demoqa.com/automation-practice-form",
+        "firstName": "Yagik",
+        "lastName": "Shrimla",
+        "email": "yagik.sharma@gmail.com",
+        "gender": "Others",
+        "mobile": "9123456780",
+        "dob": "15 Feb 1999",
+        "hobbies": ["Sports"],
+        "picture": "testdata/photo2.png",
+        "address": "BCD 234",
+        "state": "NCR",
+        "city": "Noida"
+    },  
+    {   
+        "url":"https://demoqa.com/automation-practice-form",
+        "firstName": "Yashika",
+        "lastName": "Satija",
+        "email": "yashika@gmail.com",
+        "gender": "Female",
+        "mobile": "9988776655",
+        "dob": "20 Mar 2001",
+        "hobbies": ["Reading", "Sports"],
+        "picture": "testdata/photo3.png",
+        "address": "ABC 123 ",
+        "state": "Rajasthan",
+        "city": "Jaipur"
+    }
+  ]
